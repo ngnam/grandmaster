@@ -1,4 +1,10 @@
-# Master Read file
+## Master Read file
+
+*Try to set the "Default Branch" to "gh-pages" in your repo's settings page, then delete the master branch:
+
+$ git push origin :master
+
+
 ## Open Terminal.app 
 create project parent folder "grandmaster", and a subfolder for the "master" branch. Initialise a new git repository for the project and push the "master" branch to GitHub.
 
