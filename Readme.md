@@ -17,4 +17,11 @@ create project parent folder "grandmaster", and a subfolder for the "master" bra
 
 ## Back in Terminal.app, 
 * Rename master -> gh-pages	
-* 
+* git brand -> To list brand
+* git checkout origin -> on/off brand
+* git brand <name_brand> -> name brand
+* git add <file_name>
+* git commit "messenge" -m 
+* git remote show origin -> show brand
+* git push origin gh-pages
+* git branch -d <name_brand>
