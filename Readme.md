@@ -1,4 +1,4 @@
-# Master Read file
+# 1 Master Read file
 ## Open Terminal.app 
 create project parent folder "grandmaster", and a subfolder for the "master" branch. Initialise a new git repository for the project and push the "master" branch to GitHub.
 
