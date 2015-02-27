@@ -16,5 +16,5 @@ create project parent folder "grandmaster", and a subfolder for the "master" bra
 ## Refresh your projects "master" branch page on GitHub to see the committed files
 
 ## Back in Terminal.app, 
-change directory back to the parent folder, setup a "gh-pages" subfolder for your "gh-pages" branch and change directory into it.	
-
+* Rename master -> gh-pages	
+* 
