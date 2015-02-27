@@ -1,5 +1,5 @@
 ## Master Read file
-
+Fix error!
 *Try to set the "Default Branch" to "gh-pages" in your repo's settings page, then delete the master branch:
 
 $ git push origin :master
